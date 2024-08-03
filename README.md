@@ -1,6 +1,7 @@
 "# StableBaselinesTutorials" 
 
 DEPENDENCIES:
+
 To instal the packages used in the virtual python environment (version 3.11.9) use the following command:
 pip install -r StableBaselinesTutorials/requirements.txt
 
